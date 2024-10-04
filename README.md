@@ -11,7 +11,8 @@
 Playing [YouTube] videos cross-platform in [VRChat]
 
 ## Notice:
-VRChat added `yt-dlp` support to Android/Quest, making this proxy useless.
+VRChat added `yt-dlp` support to Android/Quest, making this proxy useless.  
+YouTube is cracking down on IPs and Accounts using `yt-dlp`, making this proxy useless.
 
 ## Proxy
 The [proxy](/proxy) package contains the source code for my [public proxy](https://shay.loan)  
